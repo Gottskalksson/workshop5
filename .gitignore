@@ -22,7 +22,7 @@
 .idea/**/gradle.xml
 .idea/**/libraries
 
-jee-exam-spring.iml
+*.iml
 
 # Mongo Explorer plugin:
 .idea/**/mongoSettings.xml
